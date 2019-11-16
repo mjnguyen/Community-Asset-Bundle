@@ -1,0 +1,105 @@
+{
+    "ID" : "hardpointdatadef_valiant",
+    "HardpointData" : [
+        {
+            "location" : "centertorso",
+            "weapons" : [
+                [
+                    "chrprfweap_valiant_centertorso_flamer_eh1",
+                    "chrprfweap_valiant_centertorso_laser_eh1"
+                ],
+                [
+                    "chrprfweap_valiant_centertorso_flamer_eh2",
+                    "chrprfweap_valiant_centertorso_laser_eh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+                    "chrprfweap_valiant_lefttorso_flamer_eh1",
+                    "chrprfweap_valiant_lefttorso_laser_eh1",
+                    "chrprfweap_valiant_lefttorso_ppc_eh1",
+                    "chrprfweap_valiant_lefttorso_srm2_mh1",
+                    "chrprfweap_valiant_lefttorso_srm6_mh1"
+					
+                ],
+                [
+                    "chrprfweap_valiant_lefttorso_flamer_eh2",
+                    "chrprfweap_valiant_lefttorso_laser_eh2",
+                    "chrprfweap_valiant_lefttorso_ppc_eh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+                    "chrprfweap_valiant_righttorso_flamer_eh1",
+                    "chrprfweap_valiant_righttorso_laser_eh1",
+                    "chrprfweap_valiant_righttorso_ppc_eh1",
+                    "chrprfweap_valiant_righttorso_srm2_mh1",
+                    "chrprfweap_valiant_righttorso_srm6_mh1"
+					
+                ],
+                [
+                    "chrprfweap_valiant_righttorso_flamer_eh2",
+                    "chrprfweap_valiant_righttorso_laser_eh2",
+                    "chrprfweap_valiant_righttorso_ppc_eh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },		
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrprfweap_valiant_rightarm_flamer_eh1",
+                    "chrprfweap_valiant_rightarm_ppc_eh1",
+                    "chrprfweap_valiant_rightarm_ac10_bh1",
+                    "chrprfweap_valiant_rightarm_gauss_bh1",
+                    "chrprfweap_valiant_rightarm_mg_bh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+                [
+                    "chrprfweap_valiant_head_laser_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		
+    ]
+}
