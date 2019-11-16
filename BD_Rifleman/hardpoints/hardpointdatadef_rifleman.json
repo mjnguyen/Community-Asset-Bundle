@@ -1,0 +1,134 @@
+{
+    "ID" : "hardpointdatadef_rifleman",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+					"chrprfweap_rifleman_leftarm_ac5_bh1",
+					"chrprfweap_rifleman_leftarm_ac10_bh1",
+					"chrprfweap_rifleman_leftarm_gauss_bh1",
+					"chrprfweap_rifleman_leftarm_laser_eh1",
+					"chrprfweap_rifleman_leftarm_ppc_eh1",
+					"chrprfweap_rifleman_leftarm_srm6_mh1",
+					"chrprfweap_rifleman_leftarm_mg_bh1"				
+				],
+				[
+					"chrprfweap_rifleman_leftarm_laser_eh2",
+					"chrprfweap_rifleman_leftarm_ppc_eh2",
+					"chrprfweap_rifleman_leftarm_ac5_bh2"
+				]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+					"chrprfweap_rifleman_lefttorso_laser_eh1",
+					"chrprfweap_rifleman_lefttorso_ppc_eh1",
+					"chrprfweap_rifleman_lefttorso_mg_bh1",
+					"chrprfweap_rifleman_lefttorso_srm6_mh1",
+					"chrprfweap_rifleman_lefttorso_ac10_bh1"			
+				],
+				[
+					"chrprfweap_rifleman_lefttorso_laser_eh2",
+					"chrprfweap_rifleman_lefttorso_ppc_eh2"
+				]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+					"chrprfweap_rifleman_rightarm_ac5_bh1",
+					"chrprfweap_rifleman_rightarm_ac10_bh1",
+					"chrprfweap_rifleman_rightarm_gauss_bh1",
+					"chrprfweap_rifleman_rightarm_laser_eh1",
+					"chrprfweap_rifleman_rightarm_ppc_eh1",
+					"chrprfweap_rifleman_rightarm_srm6_mh1",
+					"chrprfweap_rifleman_rightarm_mg_bh1"					
+				],
+				[
+					"chrprfweap_rifleman_rightarm_laser_eh2",
+					"chrprfweap_rifleman_rightarm_ppc_eh2",
+					"chrprfweap_rifleman_rightarm_ac5_bh2"
+				]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+					"chrprfweap_rifleman_righttorso_laser_eh1",
+					"chrprfweap_rifleman_righttorso_ppc_eh1",
+					"chrprfweap_rifleman_righttorso_mg_bh1",
+					"chrprfweap_rifleman_righttorso_srm6_mh1",
+					"chrprfweap_rifleman_righttorso_ac10_bh1"						
+				],
+				[
+					"chrprfweap_rifleman_righttorso_laser_eh2",
+					"chrprfweap_rifleman_righttorso_ppc_eh2"
+				]
+            ],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+					"chrprfweap_rifleman_centertorso_mg_bh1",
+					"chrprfweap_rifleman_centertorso_srm6_mh1",
+					"chrprfweap_rifleman_centertorso_laser_eh1",
+					"chrprfweap_rifleman_centertorso_ac10_bh1",
+					"chrprfweap_rifleman_centertorso_flamer_eh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "head",
+            "weapons" : [
+			[
+					"chrprfweap_rifleman_head_mg_bh1",
+					"chrprfweap_rifleman_head_srm6_mh1",
+					"chrprfweap_rifleman_head_laser_eh1"
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}
