@@ -1,0 +1,125 @@
+{
+    "ID" : "hardpointdatadef_flea",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+					"chrprfweap_flea_leftarm_laser_eh1",
+					"chrprfweap_flea_leftarm_flamer_eh1",
+					"chrprfweap_flea_leftarm_ppc_eh1",
+					"chrprfweap_flea_leftarm_mg_bh1",
+					"chrprfweap_flea_leftarm_ac5_bh1",
+					"chrprfweap_flea_leftarm_srm6_mh1"
+				],
+				[
+					"chrprfweap_flea_leftarm_laser_eh2",
+					"chrprfweap_flea_leftarm_flamer_eh2",
+					"chrprfweap_flea_leftarm_mg_bh2"
+				]
+            ],
+            "blanks" : [
+                "chrprfweap_flea_leftarm_blank_gb1"
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+					"chrprfweap_flea_lefttorso_laser_eh1",
+					"chrprfweap_flea_lefttorso_ppc_eh1",
+					"chrprfweap_flea_lefttorso_flamer_eh1",
+					"chrprfweap_flea_lefttorso_lrm5_mh1",
+					"chrprfweap_flea_lefttorso_mg_bh1",
+					"chrprfweap_flea_lefttorso_ac5_bh1"					
+				]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+					"chrprfweap_flea_rightarm_laser_eh1",
+					"chrprfweap_flea_rightarm_flamer_eh1",
+					"chrprfweap_flea_rightarm_ppc_eh1",
+					"chrprfweap_flea_rightarm_mg_bh1",
+					"chrprfweap_flea_rightarm_ac5_bh1",
+					"chrprfweap_flea_rightarm_srm6_mh1"					
+				],
+				[
+					"chrprfweap_flea_rightarm_laser_eh2",
+					"chrprfweap_flea_rightarm_flamer_eh2",
+					"chrprfweap_flea_rightarm_mg_bh2"
+				]
+            ],
+            "blanks" : [
+                "chrprfweap_flea_rightarm_blank_gb1"
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+					"chrprfweap_flea_righttorso_laser_eh1",
+					"chrprfweap_flea_righttorso_ppc_eh1",
+					"chrprfweap_flea_righttorso_flamer_eh1",
+					"chrprfweap_flea_righttorso_lrm5_mh1",
+					"chrprfweap_flea_righttorso_mg_bh1",
+					"chrprfweap_flea_righttorso_ac5_bh1"					
+				]
+            ],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+				[
+					"chrprfweap_flea_centertorso_flamer_eh1",
+					"chrprfweap_flea_centertorso_laser_eh1",
+					"chrprfweap_flea_centertorso_mg_bh1",
+					"chrprfweap_flea_centertorso_srm6_mh1"					
+				]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "head",
+            "weapons" : [
+				[
+					"chrprfweap_flea_head_mg_bh1",
+					"chrprfweap_flea_head_laser_eh1",
+					"chrprfweap_flea_head_srm6_mh1"					
+				]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}
