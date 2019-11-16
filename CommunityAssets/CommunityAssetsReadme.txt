@@ -19,9 +19,17 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+4.9.1
+
 Aggregated non-heavy metal Assets into a single folder
 
 Removed BD's Corsair
+
+Install only for a fresh mod install 
+
+or
+
+Delete mods folder before patching and reinstall mod of choice
 
 4.9
 

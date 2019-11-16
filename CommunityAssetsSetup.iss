@@ -10,7 +10,7 @@
   #define FileLine = FileRead(FileHandle)
   #expr AppVerJSON = AppVerJSON + Str(FileLine)
 #endsub
-#for {FileHandle = FileOpen(BTDirectory + '/CommunityAssets/mod.json'); \
+#for {FileHandle = FileOpen(BTDirectory + '/CommunityAssets/cabversion.json'); \
   FileHandle && !FileEof(FileHandle); ""} \
   ProcessFileLine
 #if FileHandle
@@ -62,7 +62,7 @@ DiskSpanning=yes
 
 [Files]
 ;Source: "/RogueAssets/RogueAssetsReadme.txt"; DestDir: "{app}/Mods/RogueAssets"; Flags: isreadme ignoreversion
-Source: "/*"; Excludes: ".git,.modtek,.git,log.txt,RTAssetsSetup.iss,*.log"; DestDir: "{app}/Mods"; Flags: recursesubdirs ignoreversion;
+Source: "/*"; Excludes: ".git,.modtek,.git,log.txt,*.log"; DestDir: "{app}/Mods"; Flags: recursesubdirs ignoreversion;
 
 [Messages]
 SetupAppRunningError=Setup has detected that another RT setup or BATTLETECH game is currently running.%n%nPlease close all instances of it now, then click OK to continue, or Cancel to exit.
