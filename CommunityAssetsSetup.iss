@@ -34,7 +34,8 @@ AppPublisher=Lady Alekto
 ;AppUpdatesURL=http://reddit.com/r/roguetech
 AppMutex=mmon-BATTLETECH-BattleTech-exe-SingleInstanceMutex-Default,Global\mmon-BATTLETECH-BattleTech-exe-SingleInstanceMutex-Default
 SetupMutex=RogueTechSetupMutex,Global\RogueTechSetupMutex
-DefaultDirName={code:GetDefaultDir}
+;DefaultDirName={code:GetDefaultDir}
+DefaultDirName={sd}\CommunityAssetBundle
 DisableProgramGroupPage=yes
 AppendDefaultDirName=no
 ;DefaultGroupName=Inno Setup 5
@@ -62,7 +63,7 @@ DiskSpanning=yes
 
 [Files]
 ;Source: "/RogueAssets/RogueAssetsReadme.txt"; DestDir: "{app}/Mods/RogueAssets"; Flags: isreadme ignoreversion
-Source: "/*"; Excludes: ".git,.modtek,.git,log.txt,*.log"; DestDir: "{app}/Mods"; Flags: recursesubdirs ignoreversion;
+Source: "/*"; Excludes: ".git,.modtek,.git,log.txt,*.log, CommunityAssetsSetup.iss"; DestDir: "{app}/"; Flags: recursesubdirs ignoreversion;
 
 [Messages]
 SetupAppRunningError=Setup has detected that another RT setup or BATTLETECH game is currently running.%n%nPlease close all instances of it now, then click OK to continue, or Cancel to exit.
@@ -77,95 +78,100 @@ WelcomeLabel1=Welcome to the [name] Setup, Commander
 [Run]
 ;Filename: "https://roguetech.gamepedia.com/Roguetech_Wiki"; Description: "The RogueTech Wiki! Read it"; Flags: postinstall nowait shellexec skipifsilent
 
+Filename: "{app}\CommunityAssetInstaller"; Flags: postinstall
+
+;[Tasks]
+
+;Name: AuotPatcher; Description: "Run the Autopatcher"
 
 
-[Code]
-procedure InitializeWizard;
-begin
-  ExpandConstant('{#SourcePath}');
-end;
+;[Code]
+;procedure InitializeWizard;
+;begin
+;  ExpandConstant('{#SourcePath}');
+;end;
 
-// detect gog or steam installation
-function GetDefaultDir(def: string): string;
-var
-I : Integer;
-P : Integer;
-steamInstallPath : string;
-gameInstallPath : string;
-configFile : string;
-fileLines: TArrayOfString;
-begin
-	steamInstallPath := 'not found';
-	if RegQueryStringValue( HKEY_LOCAL_MACHINE, 'SOFTWARE\WOW6432Node\Valve\Steam', 'InstallPath', steamInstallPath ) then
-	begin
-	end;
-
-	if FileExists(steamInstallPath + '\steamapps\common\BattleTech\BattleTech.exe') then
-	begin
-		Result := steamInstallPath + '\steamapps\common\BattleTech';
-		Exit;
-	end
-	else
-	begin
-		configFile := steamInstallPath + '\config\config.vdf';
-		if FileExists(configFile) then
-		begin
-			if LoadStringsFromFile(configFile, FileLines) then
-			begin
-				for I := 0 to GetArrayLength(FileLines) - 1 do
-				begin
-					P := Pos('BaseInstallFolder_', FileLines[I]);
-					if P > 0 then
-					begin
-						steamInstallPath := Copy(FileLines[I], P + 23, Length(FileLines[i]) - P - 23);
-						if FileExists(steamInstallPath + '\steamapps\common\BattleTech\BattleTech.exe') then
-						begin
-							Result := steamInstallPath + '\steamapps\common\BattleTech';
-							Exit;
-						end;
-					end;
-				end;
-			end;
-		end;
-  end;
+;// detect gog or steam installation
+;function GetDefaultDir(def: string): string;
+;var
+;I : Integer;
+;P : Integer;
+;steamInstallPath : string;
+;gameInstallPath : string;
+;configFile : string;
+;fileLines: TArrayOfString;
+;begin
+;	steamInstallPath := 'not found';
+;	if RegQueryStringValue( HKEY_LOCAL_MACHINE, 'SOFTWARE\WOW6432Node\Valve\Steam', 'InstallPath', steamInstallPath ) then
+;	begin
+;	end;
+;
+;	if FileExists(steamInstallPath + '\steamapps\common\BattleTech\BattleTech.exe') then
+;	begin
+;		Result := steamInstallPath + '\steamapps\common\BattleTech';
+;		Exit;
+;	end
+;	else
+;	begin
+;		configFile := steamInstallPath + '\config\config.vdf';
+;		if FileExists(configFile) then
+;		begin
+;			if LoadStringsFromFile(configFile, FileLines) then
+;			begin
+;				for I := 0 to GetArrayLength(FileLines) - 1 do
+;				begin
+;					P := Pos('BaseInstallFolder_', FileLines[I]);
+;					if P > 0 then
+;					begin
+;						steamInstallPath := Copy(FileLines[I], P + 23, Length(FileLines[i]) - P - 23);
+;						if FileExists(steamInstallPath + '\steamapps\common\BattleTech\BattleTech.exe') then
+;						begin
+;							Result := steamInstallPath + '\steamapps\common\BattleTech';
+;							Exit;
+;						end;
+;					end;
+;				end;
+;			end;
+;		end;
+ ; end;
   
-  gameInstallPath := 'not found';
-  if RegQueryStringValue( HKEY_LOCAL_MACHINE, 'SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\1482783682_is1', 'InstallLocation', gameInstallPath ) then
-  begin
-    Result := gameInstallPath;
-    Exit;
-  end;
+;  gameInstallPath := 'not found';
+;  if RegQueryStringValue( HKEY_LOCAL_MACHINE, 'SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\1482783682_is1', 'InstallLocation', gameInstallPath ) then
+;  begin
+;    Result := gameInstallPath;
+;    Exit;
+;  end;
 	
-	Result := 'C:\BATTLETECH';
-end;
+;	Result := 'C:\BATTLETECH';
+;end;
 
-// detect gog or steam installation
-function GetSteamUserDir(def: string): string;
-var
-useriddword : Cardinal;
-userid : string;
-Names: TArrayOfString;
-I: Integer;
-S: String;
-steamInstallPath : string;
-begin
-	if RegQueryDWordValue( HKEY_CURRENT_USER, 'SOFTWARE\Valve\Steam\ActiveProcess', 'ActiveUser', useriddword ) then
- 	begin
-		userid := IntToStr(useriddword);
- 	end else
-		begin
-			if RegGetSubkeyNames(HKEY_CURRENT_USER, 'SOFTWARE\Valve\Steam\Users', Names) then
-			begin
-				S := '';
-				for I := 0 to GetArrayLength(Names)-1 do
-					S := Names[I];
-				userid := S;
-			end else
-			begin
-				userid := '0';
-			end;
-		end;
-	
-	RegQueryStringValue( HKEY_LOCAL_MACHINE, 'SOFTWARE\WOW6432Node\Valve\Steam', 'InstallPath', steamInstallPath )
-	Result := steamInstallPath + '\userdata\' + userid;
-end;
+;// detect gog or steam installation
+;function GetSteamUserDir(def: string): string;
+;var
+;useriddword : Cardinal;
+;userid : string;
+;Names: TArrayOfString;
+;I: Integer;
+;S: String;
+;steamInstallPath : string;
+;begin
+;	if RegQueryDWordValue( HKEY_CURRENT_USER, 'SOFTWARE\Valve\Steam\ActiveProcess', 'ActiveUser', useriddword ) then
+ ;	begin
+;		userid := IntToStr(useriddword);
+ ;	end else
+;		begin
+;			if RegGetSubkeyNames(HKEY_CURRENT_USER, 'SOFTWARE\Valve\Steam\Users', Names) then
+;			begin
+;				S := '';
+;				for I := 0 to GetArrayLength(Names)-1 do
+;					S := Names[I];
+;				userid := S;
+;			end else
+;			begin
+;				userid := '0';
+;			end;
+;		end;
+;	
+;	RegQueryStringValue( HKEY_LOCAL_MACHINE, 'SOFTWARE\WOW6432Node\Valve\Steam', 'InstallPath', steamInstallPath )
+;	Result := steamInstallPath + '\userdata\' + userid;
+;end;
