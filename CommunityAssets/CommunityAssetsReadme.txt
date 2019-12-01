@@ -6,10 +6,11 @@ Asset Install
 *Contains all Asset's made by the Community*
 
 1. Install the Mod
-2. Unzip the CAB
-3. Run the CAB installer and let Patcher open
-3. Select your BATTLETECH\Mods\ folder and Run the Patcher
-4. Start your game
+2. Unzip the CAB Installer
+3. Run the CAB installer
+4. Install to Location of your choice and let Patcher open
+5. Select your BATTLETECH\Mods\ folder and Run the Patcher
+6. Start your game
 
 For future updates, just rerun the patcher 
 
