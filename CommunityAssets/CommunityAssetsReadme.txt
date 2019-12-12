@@ -25,10 +25,11 @@ ASSETBUNDLE CHANGELOG!
 
 5.0
 
-Now includes a Autopatcher
+Now works through a patcher
 -Allows to easily download and patch the CAB to the latest version
+-downloads and install automatically to the modloader folder
 
-CAB Setup contains the entire CAB as a starting package
+Added the Valkyrie II
 
 4.9.1
 
@@ -645,6 +646,7 @@ Clint
 Emperor
 Helepolis
 Firebee
+Valkyrie II
 
 B4CKF1SH&Colobos:
 Vapor Eagle - discontinued
