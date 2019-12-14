@@ -6,11 +6,14 @@ Asset Install
 *Contains all Asset's made by the Community*
 
 1. Install the Mod
-2. Unzip the CAB Installer
-3. Run the CAB installer
-4. Install to Location of your choice and let Patcher open
-5. Select your BATTLETECH\Mods\ folder and Run the Patcher
-6. Start your game
+2. Run the CAB installer
+3. Install to Location of your choice and let Patcher open
+4. 
+For Modtek Mods:
+Select your BATTLETECH\Mods\ folder and Run the Patcher
+For Loader Mods
+Select your My Games\BATTLETECH\Mods\ folder and Run the Patcher
+5. Start your game
 
 For future updates, just rerun the patcher 
 
@@ -27,7 +30,7 @@ ASSETBUNDLE CHANGELOG!
 
 Now works through a patcher
 -Allows to easily download and patch the CAB to the latest version
--downloads and install automatically to the modloader folder
+-downloads and install automatically to the mods folder
 
 Added the Valkyrie II
 
