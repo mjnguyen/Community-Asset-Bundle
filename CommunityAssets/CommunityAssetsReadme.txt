@@ -5,14 +5,17 @@ Asset Install
 =========
 *Contains all Asset's made by the Community*
 
+
+Download the CAB Installer to a Folder of your choice (eg: d:/CommunityAssetBundle/)
+
 1. Install the Mod
 2. Run the CAB installer
-3. Install to Location of your choice and let Patcher open
-4. 
+3. 
 For Modtek Mods:
-Select your BATTLETECH\Mods\ folder and Run the Patcher
+Select your BATTLETECH\Mods\ folder
 For Loader Mods
-Select your My Games\BATTLETECH\Mods\ folder and Run the Patcher
+Select your My Games\BATTLETECH\Mods\ folder
+4. Click "Update CAB". The Patcher will now create a local Cache of the complete CAB Contents and install the CAB to the location of your choice
 5. Start your game
 
 For future updates, just rerun the patcher 
@@ -20,7 +23,6 @@ For future updates, just rerun the patcher
 NEXUSMODS IS THE ONLY OFFICIAL SOURCE!
 
 Modder Resource for all Community made Models
-
 
 =========
 ASSETBUNDLE CHANGELOG!
