@@ -5,7 +5,6 @@
             "location" : "head",
             "weapons" : [
                 [
-                    "chrprfweap_stormcrow_head_flamer_eh1",
                     "chrprfweap_stormcrow_head_laser_eh1",
                     "chrprfweap_stormcrow_head_mg_bh1"					
                 ]

@@ -6,7 +6,7 @@ Asset Install
 *Contains all Asset's made by the Community*
 
 
-Download the CAB Installer to a Folder of your choice (eg: d:/CommunityAssetBundle/)
+Download the CAB Installer to a Folder of your choice (eg: d:/CommunityAssetBundle/)  DO NOT PUT THE PATCHER INTO THE MODS FOLDER!
 
 1. Install the Mod
 2. Run the CAB installer
@@ -27,6 +27,9 @@ Modder Resource for all Community made Models
 =========
 ASSETBUNDLE CHANGELOG!
 =========
+
+5.1
+Fixed StormCrow and moved into CAB main files
 
 5.0
 
