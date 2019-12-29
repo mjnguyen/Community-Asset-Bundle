@@ -7132,7 +7132,7 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stormcrow/chrprfweap_stormcrow_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_stormcrowbase-001" },
 		
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stormcrow/chrprfweap_stormcrow_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_stormcrowbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stormcrow/chrprfweap_stormcrow_head_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_stormcrowbase-001" },
+		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stormcrow/chrprfweap_stormcrow_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_stormcrowbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stormcrow/chrprfweap_stormcrow_leftarm_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_stormcrowbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stormcrow/chrprfweap_stormcrow_leftarm_flamer_eh3.prefab", "AssetBundleName": "chrprfmech_stormcrowbase-001" },
