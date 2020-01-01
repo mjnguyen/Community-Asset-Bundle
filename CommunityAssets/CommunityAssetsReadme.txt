@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+5.1.1
+Fixed Elemental Assetbundle
+
 5.1
 Fixed StormCrow and moved into CAB main files
 
