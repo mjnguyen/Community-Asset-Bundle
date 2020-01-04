@@ -536,9 +536,9 @@ Public release
 Credits:
 
 SolahmaJoe - Hangar of The Dispossessed:
-Warhammer - Replaced with Redux Assets
-Marauder - Replaced with Redux Assets
-Phoenix Hawk
+Warhammer - discontinued
+Marauder - discontinued
+Phoenix Hawk  - discontinued
 Charger
 Hunchback IIC
 Wasp
@@ -567,12 +567,12 @@ Viper
 Hauptmann
 
 Bloodydoves:
-Annihilator
-Archer
-Assassin
+Annihilator - discontinued
+Archer - discontinued
+Assassin - discontinued
 Fafnir
-Flea
-Rifleman
+Flea - discontinued
+Rifleman - discontinued
 Uziel
 Hellspawn
 Thanatos
@@ -635,7 +635,7 @@ LandAirMech's
 Warhammer IIC
 Dervish
 Xenorauder
-OmniHammer
+OmniHammer - discontinued
 Bolla
 Mongoose
 VTOL Pack
