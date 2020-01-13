@@ -2,16 +2,6 @@
     "ID" : "hardpointdatadef_nova",
     "HardpointData" : [
         {
-            "location" : "head",
-            "weapons" : [],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
-        },
-        {
             "location" : "leftarm",
             "weapons" : [
                 [
