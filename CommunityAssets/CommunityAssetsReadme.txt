@@ -28,6 +28,16 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+5.2
+
+Patcher Fixes
+- fixes for some update failures
+- fixes steam installation detection problems for some users
+- updated help text
+- added link for RT discord for support
+
+Patched Nova and Valkyrie II Hardpointdatadefs
+
 5.1.1
 Fixed Elemental Assetbundle
 
@@ -582,7 +592,7 @@ Roughneck
 Loaderking
 Osiris
 Longbow
-Corsair
+Corsair - discontinued
 Marauder II
 Juggernaut
 
@@ -643,7 +653,7 @@ RT Corsair
 
 B4CKF1SH:
 Timber Wolf - superceded by Mad Cat bundle
-Warhammer Redux
+Warhammer Redux - discontinued
 
 LtShade:
 Valiant
