@@ -46,19 +46,19 @@
 			"chrPrfWeap_warhammeriic_lefttorso_laser_eh1"
 			],
 			[
-			"chrPrfWeap_warhammeriic_lefttorso_flamer_eh1"
+			"chrPrfWeap_warhammeriic_lefttorso_flamer_eh2"
 			],
 			[
-			"chrPrfWeap_warhammeriic_lefttorso_mg_bh1"
+			"chrPrfWeap_warhammeriic_lefttorso_mg_bh2"
 			],
 			[
 			"chrPrfWeap_warhammeriic_lefttorso_gauss_bh1"
 			],
 			[
-			"chrPrfWeap_warhammeriic_lefttorso_srm6_mh1"
+			"chrPrfWeap_warhammeriic_lefttorso_srm6_mh3"
 			],
 			[
-			"chrPrfWeap_warhammeriic_lefttorso_srm20_mh1"
+			"chrPrfWeap_warhammeriic_lefttorso_srm20_mh3"
 			],
 			[
 			"chrPrfWeap_warhammeriic_lefttorso_ppc_eh2"
@@ -70,10 +70,10 @@
 			"chrPrfWeap_warhammeriic_lefttorso_ac20_bh2"
 			],
 			[
-			"chrPrfWeap_warhammeriic_lefttorso_srm6_mh2"
+			"chrPrfWeap_warhammeriic_lefttorso_srm6_mh4"
 			],
 			[
-			"chrPrfWeap_warhammeriic_lefttorso_srm20_mh2"
+			"chrPrfWeap_warhammeriic_lefttorso_srm20_mh4"
 			]			
 			],
             "blanks" : [
@@ -128,19 +128,19 @@
 			"chrPrfWeap_warhammeriic_righttorso_laser_eh1"
 			],
 			[
-			"chrPrfWeap_warhammeriic_righttorso_flamer_eh1"
+			"chrPrfWeap_warhammeriic_righttorso_flamer_eh2"
 			],
 			[
-			"chrPrfWeap_warhammeriic_righttorso_mg_bh1"
+			"chrPrfWeap_warhammeriic_righttorso_mg_bh2"
 			],
 			[
 			"chrPrfWeap_warhammeriic_righttorso_gauss_bh1"
 			],
 			[
-			"chrPrfWeap_warhammeriic_righttorso_srm6_mh1"
+			"chrPrfWeap_warhammeriic_righttorso_srm6_mh4"
 			],
 			[
-			"chrPrfWeap_warhammeriic_righttorso_srm20_mh1"
+			"chrPrfWeap_warhammeriic_righttorso_srm20_mh3"
 			],
 			[
 			"chrPrfWeap_warhammeriic_righttorso_ppc_eh2"
@@ -152,16 +152,13 @@
 			"chrPrfWeap_warhammeriic_righttorso_ac20_bh2"
 			],
 			[
+			"chrPrfWeap_warhammeriic_righttorso_srm6_mh3"
+			],
+			[
 			"chrPrfWeap_warhammeriic_righttorso_srm6_mh2"
 			],
 			[
 			"chrPrfWeap_warhammeriic_righttorso_srm20_mh2"
-			],
-			[
-			"chrPrfWeap_warhammeriic_righttorso_srm6_mh3"
-			],
-			[
-			"chrPrfWeap_warhammeriic_righttorso_srm20_mh3"
 			]			
 			],
             "blanks" : [
