@@ -17,24 +17,7 @@
             "mountingPoints" : [
                 
             ]
-        },
-        {
-            "location" : "centertorso",
-            "weapons" : [
-				[
-                   "chrPrfWeap_cougar_centertorso_flamer_eh1",
-                   "chrPrfWeap_cougar_centertorso_laser_eh1",
-                   "chrPrfWeap_cougar_centertorso_mg_bh1",
-                   "chrPrfWeap_cougar_centertorso_srm6_mh1"	   
-                ]
-			],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
-        },		
+        },	
         {
             "location" : "leftarm",
             "weapons" : [

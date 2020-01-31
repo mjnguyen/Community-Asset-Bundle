@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+5.2.2
+
+Fixed Cougar HardpointDataDef
+
 5.2.1
 
 Added a fix for broken HBS Annihilator Hardpointdef
