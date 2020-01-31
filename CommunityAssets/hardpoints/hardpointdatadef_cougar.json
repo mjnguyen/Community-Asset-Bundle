@@ -17,19 +17,7 @@
             "mountingPoints" : [
                 
             ]
-        },
-        {
-            "location" : "centertorso",
-            "weapons" : [
-
-			],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
-        },		
+        },	
         {
             "location" : "leftarm",
             "weapons" : [
