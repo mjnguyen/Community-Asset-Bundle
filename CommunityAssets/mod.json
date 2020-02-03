@@ -2520,7 +2520,7 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cougar/chrPrfWeap_cougar_rightarm_flamer_eh4.prefab", "AssetBundleName": "chrprfmech_cougarbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cougar/chrPrfWeap_cougar_rightarm_laser_eh4.prefab", "AssetBundleName": "chrprfmech_cougarbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cougar/chrPrfWeap_cougar_rightarm_ppc_eh4.prefab", "AssetBundleName": "chrprfmech_cougarbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cougar/chrPrfWeap_cougar_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cougarbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cougar/chrPrfWeap_cougar_rightarm_smr6_mh1.prefab", "AssetBundleName": "chrprfmech_cougarbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cougar/chrPrfWeap_cougar_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_cougarbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cougar/chrPrfWeap_cougar_rightarm_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_cougarbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cougar/chrPrfWeap_cougar_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cougarbase-001" },
