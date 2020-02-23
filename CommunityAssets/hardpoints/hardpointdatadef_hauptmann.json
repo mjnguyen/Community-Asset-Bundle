@@ -2,14 +2,6 @@
     "ID": "hardpointdatadef_hauptmann",
     "HardpointData": [
         {
-            "location": "centertorso",
-            "weapons": [
-                
-            ],
-            "blanks": [],
-            "mountingPoints": []
-        },
-        {
             "location": "head",
             "weapons": [
                 [
