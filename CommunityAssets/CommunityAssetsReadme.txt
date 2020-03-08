@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+5.3
+
+Added the Imp
+
 5.2.2
 
 Fixed Cougar HardpointDataDef
@@ -695,3 +699,6 @@ BlackBeard
 
 LtShade&GentlePayload&Bloodydoves:
 Mackie
+
+LtShade&Bloodydoves
+Imp
