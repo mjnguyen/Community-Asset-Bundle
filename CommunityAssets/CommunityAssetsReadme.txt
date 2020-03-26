@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+5.5
+
+Added the Black Python
+
 5.4
 
 Added Colo Tank Pack 4
@@ -692,6 +696,7 @@ Emperor
 Helepolis
 Firebee
 Valkyrie II
+Black Python
 
 B4CKF1SH&Colobos:
 Vapor Eagle - discontinued
