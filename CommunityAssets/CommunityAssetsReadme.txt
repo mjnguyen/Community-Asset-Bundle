@@ -31,6 +31,13 @@ ASSETBUNDLE CHANGELOG!
 5.4
 
 Added Colo Tank Pack 4
+-Chaparell
+-Chevalier
+-Gabriel
+-Kanga
+-Lightning
+-Maxim
+-Zephyr
 
 5.3
 
