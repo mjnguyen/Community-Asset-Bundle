@@ -2,7 +2,7 @@
     "Name": "CommunityBundles",
     "Enabled": true,
 
-    "Version": "5.3",
+    "Version": "5.4",
     "Description": "Contains all AssetBundles created by the Community",
     "Author": "Community",
 
@@ -7289,7 +7289,28 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/imp/chrPrfComp_imp_rightshoulder_headlight.prefab", "AssetBundleName": "chrprfmech_impbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/imp/chrPrfComp_imp_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_impbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/imp/chrPrfComp_imp_simgame.prefab", "AssetBundleName": "chrprfmech_impbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_impbase-001.prefab", "AssetBundleName": "chrprfmech_impbase-001" }
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_impbase-001.prefab", "AssetBundleName": "chrprfmech_impbase-001" },
+		
+		    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_chaparral.prefab", "AssetBundleName": "chrprfvhcl_chaparral" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/chaparral/chrprfweap_chaparral_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_chaparral" },
+
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_chevalier.prefab", "AssetBundleName": "chrprfvhcl_chevalier" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/chevalier/chrprfweap_chevalier_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_chevalier" },	
+
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_gabriel.prefab", "AssetBundleName": "chrprfvhcl_gabriel" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/gabriel/chrprfweap_gabriel_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_gabriel" },
+	
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_kanga.prefab", "AssetBundleName": "chrprfvhcl_kanga" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/kanga/chrprfweap_kanga_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_kanga" },	
+
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_lightning.prefab", "AssetBundleName": "chrprfvhcl_lightning" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/lightning/chrprfweap_lightning_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_lightning" },	
+
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_maxim.prefab", "AssetBundleName": "chrprfvhcl_maxim" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/maxim/chrprfweap_maxim_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_maxim" },
+	
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_zephyr.prefab", "AssetBundleName": "chrprfvhcl_zephyr" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/zephyr/chrprfweap_zephyr_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_zephyr" }
 
     ]
 }

@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+5.4
+
+Added Colo Tank Pack 4
+
 5.3
 
 Added the Imp
@@ -662,6 +666,7 @@ Bolla
 Mongoose
 VTOL Pack
 RT Corsair
+Tank Pack 4
 
 B4CKF1SH:
 Timber Wolf - superceded by Mad Cat bundle
