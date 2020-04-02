@@ -28,6 +28,12 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+5.6
+Added Tank Pack 5
+-Von Luckner
+-Demon
+-Turhan
+
 5.5
 
 Added the Black Python
@@ -678,6 +684,7 @@ Mongoose
 VTOL Pack
 RT Corsair
 Tank Pack 4
+Tank Pack 5
 
 B4CKF1SH:
 Timber Wolf - superceded by Mad Cat bundle

@@ -7378,7 +7378,16 @@
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/blackpython/chrprfweap_blackpython_righttorso_mortar_bh1.prefab", "AssetBundleName": "chrprfmech_blackpythonbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/blackpython/chrprfweap_blackpython_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_blackpythonbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/blackpython/chrprfweap_blackpython_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_blackpythonbase-001" },
-		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/blackpython/chrprfweap_blackpython_righttorso_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_blackpythonbase-001" }
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/blackpython/chrprfweap_blackpython_righttorso_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_blackpythonbase-001" },
+		
+		    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_demon.prefab", "AssetBundleName": "chrprfvhcl_demon" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/demon/chrprfweap_demon_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_demon" },
+
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_turhan.prefab", "AssetBundleName": "chrprfvhcl_turhan" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/turhan/chrprfweap_turhan_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_turhan" },	
+
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_vonluckner.prefab", "AssetBundleName": "chrprfvhcl_vonluckner" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/vonluckner/chrprfweap_vonluckner_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_vonluckner" }
 
     ]
 }
