@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+5.7
+Added the Lao Hu
+
 5.6
 Added Tank Pack 6
 -Burke
@@ -710,6 +713,7 @@ Helepolis
 Firebee
 Valkyrie II
 Black Python
+Lao Hu
 
 B4CKF1SH&Colobos:
 Vapor Eagle - discontinued
