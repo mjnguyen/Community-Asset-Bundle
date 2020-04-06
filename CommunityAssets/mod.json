@@ -2,7 +2,7 @@
     "Name": "CommunityBundles",
     "Enabled": true,
 
-    "Version": "5.4",
+    "Version": "5.6",
     "Description": "Contains all AssetBundles created by the Community",
     "Author": "Community",
 
@@ -7387,7 +7387,13 @@
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/turhan/chrprfweap_turhan_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_turhan" },	
 
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_vonluckner.prefab", "AssetBundleName": "chrprfvhcl_vonluckner" },
-    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/vonluckner/chrprfweap_vonluckner_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_vonluckner" }
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/vonluckner/chrprfweap_vonluckner_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_vonluckner" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_magi.prefab", "AssetBundleName": "chrprfvhcl_magi" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/magi/chrprfweap_magi_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_magi" },
+
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_burke.prefab", "AssetBundleName": "chrprfvhcl_burke" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/burke/chrprfweap_burke_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_burke" }
 
     ]
 }

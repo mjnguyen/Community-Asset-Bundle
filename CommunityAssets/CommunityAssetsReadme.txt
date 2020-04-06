@@ -29,6 +29,11 @@ ASSETBUNDLE CHANGELOG!
 =========
 
 5.6
+Added Tank Pack 6
+-Burke
+-Mago
+
+5.6
 Added Tank Pack 5
 -Von Luckner
 -Demon
@@ -685,6 +690,7 @@ VTOL Pack
 RT Corsair
 Tank Pack 4
 Tank Pack 5
+Tank Pack 6
 
 B4CKF1SH:
 Timber Wolf - superceded by Mad Cat bundle
