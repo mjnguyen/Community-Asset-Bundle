@@ -28,6 +28,22 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+5.8
+Added ChooChoo
+
+Added to Tank Pack 6
+-brdm3
+-Puma
+-Rhino
+-sa6
+-scifibug
+-scifispg
+
+Added Turrets
+-Steampunk Cannon Dark&Light
+-Rocket emplacement
+
+
 5.7
 Added the Lao Hu
 
@@ -694,6 +710,9 @@ RT Corsair
 Tank Pack 4
 Tank Pack 5
 Tank Pack 6
+Tank Pack 7
+Choo Choo
+More Turrets
 
 B4CKF1SH:
 Timber Wolf - superceded by Mad Cat bundle
