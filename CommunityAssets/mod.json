@@ -7548,7 +7548,16 @@
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/scifibug/chrprfweap_scifibug_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_scifibug" },	
 
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_scifispg.prefab", "AssetBundleName": "chrprfvhcl_scifispg" },
-    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/scifispg/chrprfweap_scifispg_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_scifispg" }
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/scifispg/chrprfweap_scifispg_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_scifispg" },
+	
+	    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_ballista.prefab", "AssetBundleName": "chrprfvhcl_ballista" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/ballista/chrprfweap_ballista_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_ballista" },
+
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_beagle.prefab", "AssetBundleName": "chrprfvhcl_beagle" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/beagle/chrprfweap_beagle_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_beagle" },	
+
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_fury.prefab", "AssetBundleName": "chrprfvhcl_fury" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/fury/chrprfweap_fury_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_fury" }
 
     ]
 }
