@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+6.0
+Added the Anubis
+
 5.9
 
 Tank Pack 7
