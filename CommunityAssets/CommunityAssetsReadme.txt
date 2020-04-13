@@ -31,6 +31,9 @@ ASSETBUNDLE CHANGELOG!
 5.9
 
 Tank Pack 7
+-ballista
+-beagle
+-fury
 
 5.8
 Added ChooChoo
