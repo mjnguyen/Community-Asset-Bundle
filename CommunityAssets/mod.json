@@ -2,7 +2,7 @@
     "Name": "CommunityBundles",
     "Enabled": true,
 
-    "Version": "5.7",
+    "Version": "6.0",
     "Description": "Contains all AssetBundles created by the Community",
     "Author": "Community",
 
@@ -7557,7 +7557,16 @@
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/beagle/chrprfweap_beagle_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_beagle" },	
 
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_fury.prefab", "AssetBundleName": "chrprfvhcl_fury" },
-    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/fury/chrprfweap_fury_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_fury" }
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/fury/chrprfweap_fury_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_fury" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_baneb.prefab", "AssetBundleName": "chrprfvhcl_baneb" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/baneb/chrprfweap_baneb_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_baneb" },
+
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_lruss.prefab", "AssetBundleName": "chrprfvhcl_lruss" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/lruss/chrprfweap_lruss_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_lruss" },	
+
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_pred.prefab", "AssetBundleName": "chrprfvhcl_pred" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/pred/chrprfweap_pred_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_pred" }
 
     ]
 }
