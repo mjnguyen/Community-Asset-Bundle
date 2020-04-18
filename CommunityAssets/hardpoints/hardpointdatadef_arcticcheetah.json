@@ -31,7 +31,7 @@
                     "chrprfweap_arcticcheetah_leftarm_laser_eh2",
 					"chrprfweap_arcticcheetah_leftarm_ac5_bh2",
 					"chrprfweap_arcticcheetah_leftarm_mg_bh2"
-                ],
+                ]
             ],
             "blanks" : [
                 
@@ -52,8 +52,8 @@
                 ],
 				[
                     "chrprfweap_arcticcheetah_lefttorso_flamer_eh2",
-                    "chrprfweap_arcticcheetah_lefttorso_laser_eh2",
-                ],
+                    "chrprfweap_arcticcheetah_lefttorso_laser_eh2"
+                ]
 			],
             "blanks" : [
                 
@@ -82,7 +82,7 @@
                 ],
 				[
                     "chrprfweap_arcticcheetah_rightarm_mg_bh3"
-                ],
+                ]
             ],
             "blanks" : [
                 
@@ -104,7 +104,7 @@
                 ],
 				[
                     "chrprfweap_arcticcheetah_righttorso_mg_bh2"
-                ],
+                ]
 			],
             "blanks" : [
                 
