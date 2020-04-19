@@ -2,24 +2,11 @@
     "ID" : "hardpointdatadef_incubus",
     "HardpointData" : [
         {
-            "location" : "head",
-            "weapons" : [
-			
-			],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
-        },
-        {
             "location" : "centertorso",
             "weapons" : [
 				[
-                    "chrprfweap_incubus_rightarm_lrm15_mh1",
-					"chrprfweap_incubus_rightarm_lrm10_mh1",
-					"chrprfweap_incubus_rightarm_srm6_mh1"
+			"chrprfweap_incubus_centertorso_lrm10_mh1",
+	                "chrprfweap_incubus_centertorso_srm6_mh1"
 				]
 			],
             "blanks" : [
