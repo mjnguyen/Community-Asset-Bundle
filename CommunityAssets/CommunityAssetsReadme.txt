@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+6.1
+Added the Hussar
+
 6.0
 Tank Pack 8
 
