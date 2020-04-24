@@ -10,13 +10,13 @@
 			"chrPrfWeap_linebacker_leftarm_laser_eh1",
 			"chrPrfWeap_linebacker_leftarm_flamer_eh1",
 			"chrPrfWeap_linebacker_leftarm_mg_bh1",
-			"chrPrfWeap_linebacker_leftarm_gauss_bh1",
+			"chrPrfWeap_linebacker_leftarm_gauss_bh1"
+			],
+			[
 			"chrPrfWeap_linebacker_leftarm_srm4_mh2",
 			"chrPrfWeap_linebacker_leftarm_srm6_mh2",
 			"chrPrfWeap_linebacker_leftarm_lrm15_mh2",
-			"chrPrfWeap_linebacker_leftarm_srm20_mh2"
-			],
-			[
+			"chrPrfWeap_linebacker_leftarm_srm20_mh2",
 			"chrPrfWeap_linebacker_leftarm_ppc_eh2",
 			"chrPrfWeap_linebacker_leftarm_laser_eh2"
 			]			
@@ -147,6 +147,5 @@
                 
             ]
         }
-    ]
-	
+    ]	
 }
