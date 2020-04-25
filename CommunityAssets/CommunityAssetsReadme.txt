@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+6.2
+Added the Anubis
+Added the Titan
+
 6.1
 Added the Hussar
 
