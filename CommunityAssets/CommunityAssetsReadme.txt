@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+6.3
+Added the Zeus-X
+
 6.2
 Added the Anubis
 Added the Titan
