@@ -34,7 +34,7 @@
             "weapons" : [
                 [
 					"chrprfweap_valiant_lefttorso_ac5_bh1",
-					"chrprfweap_valiant_lefttorso_flamer_bh1",
+					"chrprfweap_valiant_lefttorso_flamer_eh1",
 					"chrprfweap_valiant_lefttorso_gauss_bh1",
 					"chrprfweap_valiant_lefttorso_laser_eh1",
 					"chrprfweap_valiant_lefttorso_lrm10_mh1",
@@ -47,7 +47,7 @@
 					
                 ],
                 [
-					"chrprfweap_valiant_lefttorso_flamer_bh2",
+					"chrprfweap_valiant_lefttorso_flamer_eh2",
 					"chrprfweap_valiant_lefttorso_laser_eh2",
 					"chrprfweap_valiant_lefttorso_lrm5_mh2",
 					"chrprfweap_valiant_lefttorso_ppc_eh2",
@@ -67,7 +67,7 @@
             "weapons" : [
                 [
 					"chrprfweap_valiant_righttorso_ac5_bh1",
-					"chrprfweap_valiant_righttorso_flamer_bh1",
+					"chrprfweap_valiant_righttorso_flamer_eh1",
 					"chrprfweap_valiant_righttorso_gauss_bh1",
 					"chrprfweap_valiant_righttorso_laser_eh1",
 					"chrprfweap_valiant_righttorso_lrm10_mh1",
@@ -80,7 +80,7 @@
 					
                 ],
                 [
-					"chrprfweap_valiant_righttorso_flamer_bh2",
+					"chrprfweap_valiant_righttorso_flamer_eh2",
 					"chrprfweap_valiant_righttorso_laser_eh2",
 					"chrprfweap_valiant_righttorso_lrm5_mh2",
 					"chrprfweap_valiant_righttorso_ppc_eh2",
