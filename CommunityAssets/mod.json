@@ -2,7 +2,7 @@
     "Name": "CommunityBundles",
     "Enabled": true,
 
-    "Version": "6.3",
+    "Version": "6.4",
     "Description": "Contains all AssetBundles created by the Community",
     "Author": "Community",
 
@@ -7803,7 +7803,49 @@
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/zeusx/chrPrfWeap_zeusx_rightarm_srm2_mh3.prefab", "AssetBundleName": "chrprfmech_zeusxbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/zeusx/chrPrfWeap_zeusx_rightarm_srm4_mh3.prefab", "AssetBundleName": "chrprfmech_zeusxbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/zeusx/chrPrfWeap_zeusx_rightarm_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_zeusxbase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/zeusx/chrPrfWeap_zeusx_rightarm_blank_mh1.prefab", "AssetBundleName": "chrprfmech_zeusxbase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/zeusx/chrPrfWeap_zeusx_rightarm_blank_mh1.prefab", "AssetBundleName": "chrprfmech_zeusxbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hornet/chrPrfComp_hornet_simgame.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_hornetbase-001.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },	
+	
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hornet/chrPrfComp_hornet_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hornet/chrPrfComp_hornet_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_lefttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_rightarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_righttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_head_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_head_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_head_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_centertorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" }
 
     ]
 }

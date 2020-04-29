@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+6.4
+Added the Hornet
+
 6.3
 Added the Zeus-X
 
