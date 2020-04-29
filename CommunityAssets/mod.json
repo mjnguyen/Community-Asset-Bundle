@@ -7845,7 +7845,13 @@
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_centertorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hornet/chrPrfWeap_hornet_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hornetbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_anat.prefab", "AssetBundleName": "chrprfvhcl_anat" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/anat/chrprfweap_anat_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_anat" },
+
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_nacon.prefab", "AssetBundleName": "chrprfvhcl_nacon" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/nacon/chrprfweap_nacon_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_nacon" },
 
     ]
 }
