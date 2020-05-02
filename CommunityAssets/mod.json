@@ -2,7 +2,7 @@
     "Name": "CommunityBundles",
     "Enabled": true,
 
-    "Version": "6.4",
+    "Version": "6.5",
     "Description": "Contains all AssetBundles created by the Community",
     "Author": "Community",
 
@@ -7852,6 +7852,48 @@
 
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_nacon.prefab", "AssetBundleName": "chrprfvhcl_nacon" },
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/nacon/chrprfweap_nacon_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_nacon" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/urbielord/chrPrfComp_urbielord_simgame.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_urbielordbase-001.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/urbielord/chrPrfComp_urbielord_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },	
+
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrPrfWeap_urbielord_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },	
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_leftarm_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_leftarm_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+	
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_lefttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_lefttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+	
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_rightarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_rightarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_rightarm_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_rightarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_rightarm_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+	
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_righttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+	
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_centertorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/urbielord/chrprfweap_urbielord_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_urbielordbase-001" }
 
     ]
 }

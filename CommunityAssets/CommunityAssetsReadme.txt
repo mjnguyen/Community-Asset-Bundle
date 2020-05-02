@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+6.5
+Added the UrbieLam/UrbieLord
+Patched Community Urbie
+
 6.4
 Added the Hornet
 
