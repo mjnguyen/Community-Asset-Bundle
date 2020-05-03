@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+6.6
+Added the Argus
+
 6.5
 Added the UrbieLam/UrbieLord
 Patched Community Urbie
