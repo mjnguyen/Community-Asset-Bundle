@@ -2,7 +2,7 @@
     "Name": "CommunityBundles",
     "Enabled": true,
 
-    "Version": "6.6",
+    "Version": "6.7",
     "Description": "Contains all AssetBundles created by the Community",
     "Author": "Community",
 
@@ -7962,7 +7962,16 @@
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/argus/chrprfweap_argus_righttorso_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_argusbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/argus/chrprfweap_argus_righttorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_argusbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/argus/chrprfweap_argus_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_argusbase-001" },
-		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/argus/chrprfweap_argus_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_argusbase-001" }
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/argus/chrprfweap_argus_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_argusbase-001" },
+		
+		    { "Type": "Prefab", "Path": "assets/character/vehicles/prefabs/chrprfvhcl_toybotatank.prefab", "AssetBundleName": "chrprfvhcl_toybotatank" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/toybotatank/chrPrfWeap_toybotatank_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_toybotatank" },
+	
+    { "Type": "Prefab", "Path": "assets/character/vehicles/prefabs/chrprfvhcl_toybotarocket.prefab", "AssetBundleName": "chrprfvhcl_toybotarocket" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/toybotarocket/chrPrfWeap_toybotarocket_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_toybotarocket" },
+
+    { "Type": "Prefab", "Path": "assets/character/vehicles/prefabs/chrprfvhcl_skanda.prefab", "AssetBundleName": "chrprfvhcl_skanda" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/skanda/chrPrfWeap_skanda_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_skanda" },	
 
     ]
 }

@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+6.7
+Updated most Tank Textures
+Added more Technicals
+
 6.6
 Added the Argus
 
