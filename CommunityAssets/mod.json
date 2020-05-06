@@ -2,7 +2,7 @@
     "Name": "CommunityBundles",
     "Enabled": true,
 
-    "Version": "6.7",
+    "Version": "6.8",
     "Description": "Contains all AssetBundles created by the Community",
     "Author": "Community",
 
@@ -7971,7 +7971,22 @@
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/toybotarocket/chrPrfWeap_toybotarocket_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_toybotarocket" },
 
     { "Type": "Prefab", "Path": "assets/character/vehicles/prefabs/chrprfvhcl_skanda.prefab", "AssetBundleName": "chrprfvhcl_skanda" },
-    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/skanda/chrPrfWeap_skanda_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_skanda" },	
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/skanda/chrPrfWeap_skanda_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_skanda" },
+
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_burro.prefab", "AssetBundleName": "chrprfvhcl_burro" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/burro/chrprfweap_burro_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_burro" },
+
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_burrocistern.prefab", "AssetBundleName": "chrprfvhcl_burrocistern" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/burrocistern/chrprfweap_burrocistern_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_burrocistern" },
+
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_burroflat.prefab", "AssetBundleName": "chrprfvhcl_burroflat" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/burroflat/chrprfweap_burroflat_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_burroflat" },
+
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_j37.prefab", "AssetBundleName": "chrprfvhcl_j37" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/j37/chrprfweap_j37_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_j37" },
+
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_j37cistern.prefab", "AssetBundleName": "chrprfvhcl_j37cistern" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/j37cistern/chrprfweap_j37cistern_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_j37cistern" }
 
     ]
 }
