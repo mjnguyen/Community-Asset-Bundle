@@ -2,7 +2,7 @@
     "Name": "CommunityBundles",
     "Enabled": true,
 
-    "Version": "6.8",
+    "Version": "6.9",
     "Description": "Contains all AssetBundles created by the Community",
     "Author": "Community",
 
@@ -7986,7 +7986,68 @@
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/j37/chrprfweap_j37_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_j37" },
 
 	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_j37cistern.prefab", "AssetBundleName": "chrprfvhcl_j37cistern" },
-    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/j37cistern/chrprfweap_j37cistern_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_j37cistern" }
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/j37cistern/chrprfweap_j37cistern_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_j37cistern" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hammertimeomni/chrPrfComp_hammertimeomni_simgame.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_hammertimeomnibase-001.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hammertimeomni/chrPrfComp_hammertimeomni_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_centertorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_centertorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_centertorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_centertorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+	
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_head_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },	
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },	
+	
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_leftarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_leftarm_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_leftarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_lefttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_lefttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_lefttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_lefttorso_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_lefttorso_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_lefttorso_lrm10_mh2.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_lefttorso_lrm5_mh2.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_righttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_righttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_righttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_righttorso_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_righttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_righttorso_srm20_mh2.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_rightarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_rightarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_rightarm_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hammertimeomni/chrprfweap_hammertimeomni_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_hammertimeomnibase-001" }
 
     ]
 }

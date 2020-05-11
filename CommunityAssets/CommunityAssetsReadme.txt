@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+6.9
+Readded the OmniHammer
+
 6.8
 Added several trucks
 
