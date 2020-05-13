@@ -28,6 +28,11 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+7.0
+Added Owens
+Added Strider
+Added Chimera
+
 6.9
 Readded the OmniHammer
 
