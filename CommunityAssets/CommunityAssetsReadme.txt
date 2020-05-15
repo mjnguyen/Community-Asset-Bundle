@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+7.1
+Added Blitzkrieg
+
 7.0
 Added Owens
 Added Strider

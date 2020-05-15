@@ -2,7 +2,7 @@
     "Name": "CommunityBundles",
     "Enabled": true,
 
-    "Version": "7",
+    "Version": "7.1",
     "Description": "Contains all AssetBundles created by the Community",
     "Author": "Community",
 
@@ -8222,7 +8222,65 @@
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/strider/chrPrfWeap_strider_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_striderbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/strider/chrPrfWeap_strider_head_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_striderbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/strider/chrPrfWeap_strider_head_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_striderbase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/strider/chrPrfWeap_strider_head_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_striderbase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/strider/chrPrfWeap_strider_head_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_striderbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/blitzkrieg/chrPrfComp_blitzkrieg_simgame.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_blitzkriegbase-001.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/blitzkrieg/chrPrfComp_blitzkrieg_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_leftarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_leftarm_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_lefttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_lefttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_lefttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_lefttorso_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_rightarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_rightarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_rightarm_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_righttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_righttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_righttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_righttorso_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_centertorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_centertorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_centertorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_centertorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_centertorso_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_head_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_head_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_head_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_head_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_head_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" }
 
     ]
 }
