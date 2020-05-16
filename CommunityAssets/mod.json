@@ -8280,7 +8280,25 @@
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_head_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_head_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_head_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/blitzkrieg/chrPrfWeap_blitzkrieg_head_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_blitzkriegbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_carnivore.prefab", "AssetBundleName": "chrprfvhcl_carnivore" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/carnivore/chrprfweap_carnivore_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_carnivore" },
+
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_divdual.prefab", "AssetBundleName": "chrprfvhcl_divdual" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/divdual/chrprfweap_divdual_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_divdual" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_divhowi.prefab", "AssetBundleName": "chrprfvhcl_divhowi" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/divhowi/chrprfweap_divhowi_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_divhowi" },
+
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_giapc.prefab", "AssetBundleName": "chrprfvhcl_giapc" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/giapc/chrprfweap_giapc_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_giapc" },
+
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_hadur.prefab", "AssetBundleName": "chrprfvhcl_hadur" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/hadur/chrprfweap_hadur_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_hadur" },
+
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_saladin.prefab", "AssetBundleName": "chrprfvhcl_saladin" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/saladin/chrprfweap_saladin_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_saladin" }
 
     ]
 }
