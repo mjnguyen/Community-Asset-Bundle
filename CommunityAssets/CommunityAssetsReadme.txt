@@ -28,6 +28,12 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+7.3
+Added Merlin
+
+7.2
+Added some tanks
+
 7.1
 Added Blitzkrieg
 

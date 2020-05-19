@@ -2,7 +2,7 @@
     "Name": "CommunityBundles",
     "Enabled": true,
 
-    "Version": "7.1",
+    "Version": "7.3",
     "Description": "Contains all AssetBundles created by the Community",
     "Author": "Community",
 
@@ -8298,7 +8298,66 @@
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/hadur/chrprfweap_hadur_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_hadur" },
 
 	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_saladin.prefab", "AssetBundleName": "chrprfvhcl_saladin" },
-    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/saladin/chrprfweap_saladin_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_saladin" }
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/saladin/chrprfweap_saladin_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_saladin" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_gauss_bh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_lrm10_mh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_leftarm_lrm20_mh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_lefttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_lefttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_lefttorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_lefttorso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_lefttorso_flamer_eh3.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_lefttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_lefttorso_mg_bh3.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_righttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_righttorso_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_righttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_righttorso_lrm5_mh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_righttorso_lrm10_mh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_rightarm_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_rightarm_gauss_bh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/merlin/chrprfweap_merlin_rightarm_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/merlin/chrPrfComp_merlin_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/merlin/chrPrfComp_merlin_leftshoulder_headlight.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/merlin/chrPrfComp_merlin_rightshoulder_headlight.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/merlin/chrPrfComp_merlin_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/merlin/chrPrfComp_merlin_simgame.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_merlinbase-001.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" }
 
     ]
 }
