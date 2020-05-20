@@ -2,7 +2,7 @@
     "Name": "CommunityBundles",
     "Enabled": true,
 
-    "Version": "7.3",
+    "Version": "7.4",
     "Description": "Contains all AssetBundles created by the Community",
     "Author": "Community",
 
@@ -8357,7 +8357,63 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/merlin/chrPrfComp_merlin_rightshoulder_headlight.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/merlin/chrPrfComp_merlin_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/merlin/chrPrfComp_merlin_simgame.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_merlinbase-001.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" }
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_merlinbase-001.prefab", "AssetBundleName": "chrprfmech_merlinbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/yeoman/chrPrfComp_yeoman_simgame.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_yeomanbase-001.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/yeoman/chrPrfComp_yeoman_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/yeoman/chrPrfComp_yeoman_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_arrow_mh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_arrow_mh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_lrm10_mh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_lrm15_mh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_lrm20_mh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_lrm5_mh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_lrm10_mh3.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_lrm15_mh3.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_lrm20_mh3.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_lrm5_mh3.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_leftarm_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_lefttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_lefttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_arrow_mh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_arrow_mh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_lrm10_mh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_lrm15_mh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_lrm20_mh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_lrm5_mh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_lrm10_mh3.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_lrm15_mh3.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_lrm20_mh3.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_lrm5_mh3.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_rightarm_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_righttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" },
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/yeoman/chrprfweap_yeoman_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_yeomanbase-001" }
 
     ]
 }

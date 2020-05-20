@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+7.4
+Added Yeoman
+
 7.3
 Added Merlin
 
