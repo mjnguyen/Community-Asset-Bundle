@@ -28,6 +28,11 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+7.6
+Added UrbieTanks
+Added Rommel
+Added LocustIIC
+
 7.5
 Added Waneta
 
