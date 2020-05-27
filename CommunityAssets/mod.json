@@ -2,7 +2,7 @@
     "Name": "CommunityBundles",
     "Enabled": true,
 
-    "Version": "7.6",
+    "Version": "7.7",
     "Description": "Contains all AssetBundles created by the Community",
     "Author": "Community",
 
@@ -8516,7 +8516,41 @@
     { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/urbtankmiss/chrprfweap_urbtankmiss_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_urbtankmiss" },
 
 	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_urbtankml.prefab", "AssetBundleName": "chrprfvhcl_urbtankml" },
-    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/urbtankml/chrprfweap_urbtankml_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_urbtankml" }
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/urbtankml/chrprfweap_urbtankml_front_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_urbtankml" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/toro/chrPrfComp_toro_simgame.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_torobase-001.prefab", "AssetBundleName": "chrprfmech_torobase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/toro/chrPrfComp_toro_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_leftarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_lefttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_lefttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_lefttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_lefttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_righttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_righttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_righttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_righttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_centertorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
 
     ]
 }

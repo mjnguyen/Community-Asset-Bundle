@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+7.7
+Added Toro
+
 7.6
 Added UrbieTanks
 Added Rommel
