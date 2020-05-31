@@ -2,7 +2,7 @@
     "Name": "CommunityBundles",
     "Enabled": true,
 
-    "Version": "7.7",
+    "Version": "7.8",
     "Description": "Contains all AssetBundles created by the Community",
     "Author": "Community",
 
@@ -8551,6 +8551,15 @@
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/toro/chrPrfWeap_toro_centertorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_torobase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_giwolverine.prefab", "AssetBundleName": "chrprfvhcl_giwolverine" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/giwolverine/chrPrfWeap_giwolverine_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_giwolverine" },
+
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_saracen.prefab", "AssetBundleName": "chrprfvhcl_saracen" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/saracen/chrPrfWeap_saracen_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_saracen" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_scimatar.prefab", "AssetBundleName": "chrprfvhcl_scimatar" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/scimatar/chrPrfWeap_scimatar_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_scimatar" }
 
     ]
 }

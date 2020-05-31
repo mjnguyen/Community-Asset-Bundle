@@ -28,6 +28,12 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+7.8
+Added Scimitar
+Added Saracen
+Added giwolverine
+Added 
+
 7.7
 Added Toro
 
