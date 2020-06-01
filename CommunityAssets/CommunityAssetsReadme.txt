@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+7.9
+Added Medusa
+
 7.8
 Added Scimitar
 Added Saracen
