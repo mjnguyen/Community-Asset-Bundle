@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+8.0
+Added Fire Moth (under the wrong name of the Dasher booooo)
+Updated ChooChoo
+
 7.9
 Added Medusa
 
