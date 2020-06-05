@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+8.1
+Added Warthog LAM
+
 8.0
 Added Fire Moth (under the wrong name of the Dasher booooo)
 Updated ChooChoo
