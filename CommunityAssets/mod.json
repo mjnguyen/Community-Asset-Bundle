@@ -8674,6 +8674,7 @@
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/dasher/chrPrfWeap_dasher_rightarm_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_dasherbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/dasher/chrPrfWeap_dasher_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_dasherbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/dasher/chrPrfWeap_dasher_rightarm_mg_bh2.prefab", "AssetBundleName": "chrprfmech_dasherbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/dasher/chrPrfWeap_dasher_rightarm_mg_bh3.prefab", "AssetBundleName": "chrprfmech_dasherbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/dasher/chrPrfWeap_dasher_rightarm_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_dasherbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/dasher/chrPrfWeap_dasher_rightarm_lrm10_mh2.prefab", "AssetBundleName": "chrprfmech_dasherbase-001" },
 	
