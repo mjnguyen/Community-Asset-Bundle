@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+8.3
+Added Bane
+
 8.2
 Added Jaguar LAM
 
