@@ -174,16 +174,6 @@
             "mountingPoints" : [
                 
             ]
-        },		
-		{
-            "location" : "centertorso",
-            "weapons" : [],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
         }
     ]
 }
