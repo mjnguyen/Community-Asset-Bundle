@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+8.4
+Added Osprey
+
 8.3
 Added Bane
 
