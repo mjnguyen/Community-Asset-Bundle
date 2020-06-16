@@ -28,6 +28,9 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+8.5
+Omega
+
 8.4
 Added Osprey
 
