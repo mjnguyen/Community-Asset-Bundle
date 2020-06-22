@@ -153,11 +153,10 @@
                 ]				
             ],
             "blanks" : [
-                    "chrPrfWeap_ostsol_righttorso_mount_bh1",
-                    "chrPrfWeap_ostsol_righttorso_mount_eh1"				
             ],
             "mountingPoints" : [
-                
+                     "chrPrfWeap_ostsol_righttorso_mount_bh1",
+                    "chrPrfWeap_ostsol_righttorso_mount_eh1"				
             ]
         }
     ]
