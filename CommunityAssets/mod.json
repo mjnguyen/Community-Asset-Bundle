@@ -2,7 +2,7 @@
     "Name": "CommunityBundles",
     "Enabled": true,
 
-    "Version": "8.6",
+    "Version": "8.7",
     "Description": "Contains all AssetBundles created by the Community",
     "Author": "Community",
 
@@ -8981,7 +8981,30 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/thug/chrPrfComp_thug_leftshoulder_headlight.prefab", "AssetBundleName": "chrprfmech_thugbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/thug/chrPrfComp_thug_rightshoulder_headlight.prefab", "AssetBundleName": "chrprfmech_thugbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/thug/chrPrfComp_thug_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_thugbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrPrfMech_thugBase-001.prefab", "AssetBundleName": "chrprfmech_thugbase-001" }
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrPrfMech_thugBase-001.prefab", "AssetBundleName": "chrprfmech_thugbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/bruin/chrPrfComp_bruin_simgame.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_bruinbase-001.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/bruin/chrPrfComp_bruin_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bruin/chrPrfWeap_bruin_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bruin/chrPrfWeap_bruin_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bruin/chrPrfWeap_bruin_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bruin/chrPrfWeap_bruin_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bruin/chrPrfWeap_bruin_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bruin/chrPrfWeap_bruin_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bruin/chrPrfWeap_bruin_leftarm_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bruin/chrPrfWeap_bruin_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bruin/chrPrfWeap_bruin_rightarm_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bruin/chrPrfWeap_bruin_centertorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bruin/chrPrfWeap_bruin_lefttorso_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bruin/chrPrfWeap_bruin_leftarm_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bruin/chrPrfWeap_bruin_righttorso_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bruin/chrPrfWeap_bruin_rightarm_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bruin/chrPrfWeap_bruin_centertorso_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_bruinbase-001" }
 
     ]
 }
