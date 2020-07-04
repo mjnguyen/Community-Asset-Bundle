@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+8.8
+
+Added the Screamer and Sluf
+
 8.7
 Added the Bruin
 
