@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+8.9
+
+Added the Phantom
+
 8.8
 
 Added the Screamer and Sluf
