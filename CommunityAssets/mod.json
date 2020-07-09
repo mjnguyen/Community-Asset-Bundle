@@ -9372,7 +9372,10 @@
 	
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrPrfWeap_phantom_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrPrfWeap_phantom_head_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrPrfWeap_phantom_head_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrPrfWeap_phantom_head_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_tempestmlrs.prefab", "AssetBundleName": "chrprfvhcl_tempestmlrs" },
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/tempestmlrs/chrprfweap_tempestmlrs_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_tempestmlrs" }
 
     ]
 }
