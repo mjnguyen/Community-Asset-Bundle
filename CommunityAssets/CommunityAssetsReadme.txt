@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+9.0
+
+Added the Prometheus
+
 8.9
 
 Added the Phantom

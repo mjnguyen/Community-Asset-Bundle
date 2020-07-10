@@ -9375,7 +9375,32 @@
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/phantom/chrPrfWeap_phantom_head_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_phantombase-001" },
 	
 	{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_tempestmlrs.prefab", "AssetBundleName": "chrprfvhcl_tempestmlrs" },
-    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/tempestmlrs/chrprfweap_tempestmlrs_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_tempestmlrs" }
+    { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/tempestmlrs/chrprfweap_tempestmlrs_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_tempestmlrs" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/prometheus/chrPrfComp_prometheus_simgame.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_prometheusbase-001.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/prometheus/chrPrfComp_prometheus_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/prometheus/chrPrfComp_prometheus_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" }
 
     ]
 }
