@@ -9400,7 +9400,32 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/prometheus/chrPrfWeap_prometheus_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_prometheusbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/wraith/chrPrfComp_wraith_simgame.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_wraithbase-001.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/wraith/chrPrfComp_wraith_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/wraith/chrPrfComp_wraith_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrPrfWeap_wraith_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrPrfWeap_wraith_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrPrfWeap_wraith_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrPrfWeap_wraith_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrPrfWeap_wraith_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrPrfWeap_wraith_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrPrfWeap_wraith_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrPrfWeap_wraith_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrPrfWeap_wraith_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrPrfWeap_wraith_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrPrfWeap_wraith_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrPrfWeap_wraith_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrPrfWeap_wraith_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrPrfWeap_wraith_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/wraith/chrPrfWeap_wraith_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_wraithbase-001" }
 
     ]
 }
