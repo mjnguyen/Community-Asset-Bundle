@@ -28,6 +28,8 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+9.2
+
 9.1
 
 Added the Wraith
