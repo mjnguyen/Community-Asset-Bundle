@@ -28,7 +28,13 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+9.3
+
+Added the Razorback
+
 9.2
+
+Added the Swordsman
 
 9.1
 
