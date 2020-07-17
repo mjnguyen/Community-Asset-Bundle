@@ -9426,7 +9426,32 @@
 	
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/razorback/chrPrfWeap_razorback_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_razorbackbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/razorback/chrPrfWeap_razorback_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_razorbackbase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/razorback/chrPrfWeap_razorback_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_razorbackbase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/razorback/chrPrfWeap_razorback_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_razorbackbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ioncyclops/chrPrfComp_ioncyclops_simgame.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_ioncyclopsbase-001.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ioncyclops/chrPrfComp_ioncyclops_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ioncyclops/chrPrfComp_ioncyclops_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ioncyclops/chrPrfWeap_ioncyclops_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ioncyclops/chrPrfWeap_ioncyclops_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ioncyclops/chrPrfWeap_ioncyclops_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ioncyclops/chrPrfWeap_ioncyclops_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ioncyclops/chrPrfWeap_ioncyclops_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ioncyclops/chrPrfWeap_ioncyclops_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ioncyclops/chrPrfWeap_ioncyclops_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ioncyclops/chrPrfWeap_ioncyclops_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ioncyclops/chrPrfWeap_ioncyclops_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ioncyclops/chrPrfWeap_ioncyclops_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ioncyclops/chrPrfWeap_ioncyclops_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ioncyclops/chrPrfWeap_ioncyclops_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ioncyclops/chrPrfWeap_ioncyclops_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ioncyclops/chrPrfWeap_ioncyclops_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ioncyclops/chrPrfWeap_ioncyclops_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ioncyclopsbase-001" }
 
     ]
 }

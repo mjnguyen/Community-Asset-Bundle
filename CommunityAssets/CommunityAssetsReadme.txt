@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+9.4
+
+Added the Ion Cyclops
+
 9.3
 
 Added the Razorback
