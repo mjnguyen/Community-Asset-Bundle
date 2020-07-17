@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+9.5
+
+Added the Ion Zeus and Ion Bruin
+
 9.4
 
 Added the Ion Cyclops
