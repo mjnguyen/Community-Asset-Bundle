@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+9.6
+
+Added the Phantom (real mech, not the LAM)
+
 9.5
 
 Added the Ion Zeus and Ion Bruin
