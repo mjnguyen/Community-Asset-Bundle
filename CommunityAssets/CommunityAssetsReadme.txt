@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+9.7
+
+Added the Kingfisher
+
 9.6
 
 Added the Phantom (real mech, not the LAM)
