@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+9.8
+
+Added the Sunder
+
 9.7
 
 Added the Kingfisher
