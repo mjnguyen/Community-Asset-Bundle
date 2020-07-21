@@ -31,6 +31,7 @@ ASSETBUNDLE CHANGELOG!
 9.9
 
 Added the Onager
+Added the Doloire
 
 9.8
 

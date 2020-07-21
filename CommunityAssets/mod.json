@@ -9601,7 +9601,32 @@
 	
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/iondoloire/chrPrfComp_iondoloire_simgame.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_iondoloirebase-001.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/iondoloire/chrPrfComp_iondoloire_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrPrfWeap_iondoloire_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrPrfWeap_iondoloire_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrPrfWeap_iondoloire_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrPrfWeap_iondoloire_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrPrfWeap_iondoloire_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrPrfWeap_iondoloire_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrPrfWeap_iondoloire_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrPrfWeap_iondoloire_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrPrfWeap_iondoloire_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrPrfWeap_iondoloire_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrPrfWeap_iondoloire_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrPrfWeap_iondoloire_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrPrfWeap_iondoloire_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrPrfWeap_iondoloire_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrPrfWeap_iondoloire_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" }
 
     ]
 }
