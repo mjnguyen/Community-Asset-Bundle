@@ -2,7 +2,7 @@
     "Name": "CommunityBundles",
     "Enabled": true,
 
-    "Version": "9.3",
+    "Version": "9.9",
     "Description": "Contains all AssetBundles created by the Community",
     "Author": "Community",
 
@@ -9576,7 +9576,32 @@
 	
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionsunder/chrPrfWeap_ionsunder_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionsunderbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionsunder/chrPrfWeap_ionsunder_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ionsunderbase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionsunder/chrPrfWeap_ionsunder_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionsunderbase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionsunder/chrPrfWeap_ionsunder_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionsunderbase-001" },
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/iononanger/chrPrfComp_iononanger_simgame.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_iononangerbase-001.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/iononanger/chrPrfComp_iononanger_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iononanger/chrPrfWeap_iononanger_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_iononangerbase-001" }
 
     ]
 }
