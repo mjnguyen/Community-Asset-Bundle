@@ -885,6 +885,29 @@ Valkyrie II
 Black Python
 Lao Hu
 
+Transient74:
+Warthog LAM
+Jaguar LAM
+Osprey
+Bruin
+Screamer LAM
+SLUF LAM
+Phantom LAM
+
+Transient74&IonRaptor:
+Prometheus
+Wraith 
+Swordsman
+Razorback
+IonBruin
+IonCyclops
+IonZeus
+Onager
+Phantom
+Kingfisher
+Sunder
+Doloire
+
 B4CKF1SH&Colobos:
 Vapor Eagle - discontinued
 Valkyrie Kitbash - discontinued
