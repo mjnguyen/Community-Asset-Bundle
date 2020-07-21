@@ -9626,7 +9626,32 @@
 	
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrprfweap_iondoloire_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrprfweap_iondoloire_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrprfweap_iondoloire_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/iondoloire/chrprfweap_iondoloire_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_iondoloirebase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/masonviking/chrPrfComp_masonviking_simgame.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_masonvikingbase-001.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/masonviking/chrPrfComp_masonviking_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/masonviking/chrPrfComp_masonviking_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" }
 
     ]
 }

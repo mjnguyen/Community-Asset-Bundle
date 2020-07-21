@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+10.0
+
+Added the Viking
+
 9.9
 
 Added the Onager
